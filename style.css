@@ -1,0 +1,78 @@
+.promo-lead .hero {
+	position: absolute;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	width:100%;
+}
+.promo-lead h2 {
+	font-size: 24px;
+}
+.promo-lead .rotate {
+	position: absolute;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	padding-bottom: 120px;
+	width: 100%;
+	padding-top: 200px;
+	background-size: cover;
+	background-position: center;
+}
+
+.promo-lead .hgroup {
+	position: relative;
+	z-index: 2;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.promo-lead .promo-lead {
+	position: relative;
+	background-repeat: no-repeat;
+	background-position: 50% 0;
+	width: 100%;
+	height: 450px;
+	overflow:hidden;
+}
+
+.promo-lead .block {
+	display:block;
+}
+
+.promo-lead .promo-lead-anchor {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	z-index:3;
+}
+
+
+.promo-lead .promo-lead h1 {
+	margin: 0 auto 4px;
+	padding-top: 20%;
+	text-align: center;
+}
+
+.promo-lead .overlay {
+	background:rgba(255, 255, 255, 0.1);
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	z-index: 2;
+}
+
+.promo-lead .promo-lead h2 {
+	margin-bottom: 26px;
+	text-align: center;
+}
+
+.promo-lead h1, .promo-lead h2, .promo-lead span {
+	color: #fff;
+	text-shadow: 0px 0px 15px #252525;
+}

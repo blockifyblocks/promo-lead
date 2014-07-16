@@ -1,0 +1,8 @@
+{
+	"name": "promo-lead",
+	"template": {
+		"@type": "Article",
+		"url": "#",
+		"image": "https://s3.amazonaws.com/ooomf-com-files/wdXqHcTwSTmLuKOGz92L_Landscape.jpg"
+	}
+}
